@@ -1,4 +1,4 @@
-# World-Happiness-Report-
+# World Happiness Report
 World Happiness Report - Data Analysis using SPSS and Excel
 
 Project description
