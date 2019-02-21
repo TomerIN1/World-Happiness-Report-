@@ -1,7 +1,7 @@
 # World Happiness Report
 World Happiness Report - Data Analysis using SPSS and Excel
 
-Project description
+Project description:
 
 Happiness define as a "state of well-being and contentment" (Merriam-Webster). 
 In each year the World Happiness Report ranks happiness scores of 156 countries by a verity of variables. 
